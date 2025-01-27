@@ -1,0 +1,14 @@
+accelerate>=0.26.0
+protobuf==3.20.1
+transformers==4.46.2
+xlrd
+#torch
+pandas
+pynvml==11.4.1
+openpyxl
+tiktoken
+blobfile
+mysql-connector-python==9.0.0
+
+typing_extensions
+torchgen
